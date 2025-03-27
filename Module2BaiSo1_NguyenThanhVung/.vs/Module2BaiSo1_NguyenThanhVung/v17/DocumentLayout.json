@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nguye\\Documents\\LTDESKTOP\\31231024861_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3892A058-E489-4C51-9F9E-15EDD1B69DB8}|Module2BaiSo1_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung.csproj|d:\\nguye\\documents\\ltdesktop\\31231024861_nguyenthanhvung\\module2baiso1_nguyenthanhvung\\module2baiso1_nguyenthanhvung\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3892A058-E489-4C51-9F9E-15EDD1B69DB8}|Module2BaiSo1_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung.csproj|solutionrelative:module2baiso1_nguyenthanhvung\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3892A058-E489-4C51-9F9E-15EDD1B69DB8}|Module2BaiSo1_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung.csproj|d:\\nguye\\documents\\ltdesktop\\31231024861_nguyenthanhvung\\module2baiso1_nguyenthanhvung\\module2baiso1_nguyenthanhvung\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3892A058-E489-4C51-9F9E-15EDD1B69DB8}|Module2BaiSo1_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung.csproj|solutionrelative:module2baiso1_nguyenthanhvung\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3892A058-E489-4C51-9F9E-15EDD1B69DB8}|Module2BaiSo1_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung.csproj|d:\\nguye\\documents\\ltdesktop\\31231024861_nguyenthanhvung\\module2baiso1_nguyenthanhvung\\module2baiso1_nguyenthanhvung\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3892A058-E489-4C51-9F9E-15EDD1B69DB8}|Module2BaiSo1_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung.csproj|solutionrelative:module2baiso1_nguyenthanhvung\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\nguye\\Documents\\LTDESKTOP\\31231024861_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\Form1.cs",
+              "RelativeDocumentMoniker": "Module2BaiSo1_NguyenThanhVung\\Form1.cs",
+              "ToolTip": "D:\\nguye\\Documents\\LTDESKTOP\\31231024861_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\Form1.cs",
+              "RelativeToolTip": "Module2BaiSo1_NguyenThanhVung\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:50:45.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\nguye\\Documents\\LTDESKTOP\\31231024861_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Module2BaiSo1_NguyenThanhVung\\Form1.Designer.cs",
+              "ToolTip": "D:\\nguye\\Documents\\LTDESKTOP\\31231024861_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\Form1.Designer.cs",
+              "RelativeToolTip": "Module2BaiSo1_NguyenThanhVung\\Form1.Designer.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:50:24.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\nguye\\Documents\\LTDESKTOP\\31231024861_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\Form1.cs",
+              "RelativeDocumentMoniker": "Module2BaiSo1_NguyenThanhVung\\Form1.cs",
+              "ToolTip": "D:\\nguye\\Documents\\LTDESKTOP\\31231024861_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\Module2BaiSo1_NguyenThanhVung\\Form1.cs [Design]",
+              "RelativeToolTip": "Module2BaiSo1_NguyenThanhVung\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:50:17.507Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
